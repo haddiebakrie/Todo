@@ -1,10 +1,5 @@
-# Flutter Hive Todo App
-## ToDo App using Flutter implemented with Hive DataBase 
-
-### [Watch on YouTube](https://youtube.com/playlist?list=PLWhSmdyhZUVSZBXZUEUNQnEPZwrhzMz_H&si=pdWClHTx6FVALPlm)
-![Untitled-1](https://github.com/AmirBayat0/Flutter-Hive-Todo-App/assets/91388754/bf9510e4-9f57-42ca-8dd3-ee737d3a7208)
-
-#### Thanks For supporting❤!
+# Flutter Todo App
+## ToDo App using Flutter & Hive DataBase 
 
 <div class="row">
   <div class="column">
@@ -26,14 +21,3 @@
   
 </div>
  
-
-
-## Links
-### Support Me
-<a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-### Socials
-<p align="left"> 
-<a href="http://www.instagram.com/codewithflexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-<a href="https://znap.link/CodeWithFlexz" target="_blank" rel="noreferrer"><img src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png" width="32" height="32" /></a>
-</p>
